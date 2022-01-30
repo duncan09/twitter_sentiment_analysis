@@ -12,10 +12,10 @@ library(wordcloud)
 library(tm)
 #the authorization tokens
 app_name='duncan_sentiment'
-consumer_key='2tAEYBmfcrz3dz6EUESkrR357'
-consumer_secret='AQvuUFkuJlumr7NOAGqCrT6QuulurAP7XACwLREoDjjVa43Gdw'
-access_token='2858930885-7xVKspZRoObsPYYs6FC9RWp05N30p1kIyePlG6z'
-access_secret='Pdj32tGqlbsLcUg7Zk8XexQGJeSH5csuBTihrwsLFAJ3X'
+consumer_key='xxxxxxxxxxxxxxxxxxxxxxxxxx'
+consumer_secret='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_token='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_secret='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 
 auth_token=rtweet::create_token(
